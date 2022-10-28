@@ -22,11 +22,7 @@ noisy_channel.py takes two arguments:
 
 2) The name (and path) of an output .csv file. See 'test_output.csv' for more details.
 
-Install required packages:
-  ### torch
-  ### pytorch_pretrained_bert
-  ### sentence_transformers
-  ### fastDamerauLevenshtein
+Install required packages: torch, pytorch_pretrained_bert, sentence_transformers, fastDamerauLevenshtein
   
 Run the code as follows:
     
