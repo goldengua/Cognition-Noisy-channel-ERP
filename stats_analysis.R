@@ -12,7 +12,7 @@ library(Rmisc)
 library(emmeans)
 library(lsmeans)
 
-setwd('/Users/lijiaxuan/Desktop/model_material/NoisyChannel Supplementary Materials/revision_output/')
+setwd('/directory/')
 
 data <- read.csv('output_revision_master.csv')
 data$P600 <- as.numeric(data$P600)
