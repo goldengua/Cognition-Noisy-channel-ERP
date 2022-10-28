@@ -11,7 +11,7 @@ This directory contains four files:
 %%%%%%%%%%%%%%%%%%%
 
 
-main.py takes two arguments:
+noisy_channel.py takes two arguments:
 
 1) The name (and path) of an input .csv file. The input file should have at least four columns: Item Condition, Literal, Alternative. See 'test_input.csv' for detailed format
 2) The name (and path) of an output .csv file. See 'test_output.csv' for more details.
