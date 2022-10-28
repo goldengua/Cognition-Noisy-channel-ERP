@@ -1,0 +1,13 @@
+﻿Item,Condition,Literal,Alternative
+1,exp,The murder had been witnessing.,The murder had been witnessed.
+2,exp,The restaurant owner forgot which waitress the customer had served.,The restaurant owner forgot which customer the waitress had served
+3,exp,The aquarium visitor wondered which penguins the fish had eaten.,The aquarium visitor wondered which fish the penguins had eaten.
+4,exp,The hearty meal was devouring,The hearty meal was devoured
+5,exp,The unpleasant cough syrup was witnessing.,The unpleasant cough syrup was witnessed.
+6,exp,The dancer amazed the tango.,The dancer was amazed by the tango.
+1,ctrl,The murder had been witnessed.,The murder had been witnessing.
+2,ctrl,The restaurant owner forgot which customer the waitress had served,The restaurant owner forgot which waitress the customer had served.
+3,ctrl,The aquarium visitor wondered which fish the penguins had eaten.,The aquarium visitor wondered which penguins the fish had eaten.
+4,ctrl,The hearty meal was devoured,The hearty meal was devouring
+5,ctrl,The bystanders had been witnessing.,The bystanders had been witnessed.
+6,ctrl,The dancer performed the tango.,The dancer was performed by the tango.
