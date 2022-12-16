@@ -1,10 +1,8 @@
-# Heuristic interpretation as rational inference: A computational model of the N400 and P600 in language processing
+<h1> README </h1>
 
-README
+<p> This repository includes sample test data and codes of paper <i> Heuristic interpretation as rational inference: A computational model of the N400 and P600 in language processing </i>. </p>
 
-This repository includes sample test data and codes of paper (title: "Heuristic interpretation as rational inference: A computational model of the N400 and P600 in language processing").
-
-This directory contains four files:
+<h4> List of Files </h4>
 
   > noisy_channel.py -- the code for calculating n400 and p600 elicited by a given stimuli
   
@@ -18,7 +16,7 @@ This directory contains four files:
 
 noisy_channel.py takes two arguments:
 
-1) The name (and path) of an input .csv file. The input file should have at least four columns: Item Condition, Literal, Alternative. See 'test_input.csv' for detailed format
+1) The name (and path) of an input .csv file. The input file should have at least four columns: Item, Condition, Literal, Alternative. See 'test_input.csv' for detailed format
 
 2) The name (and path) of an output .csv file. See 'test_output.csv' for more details.
 
