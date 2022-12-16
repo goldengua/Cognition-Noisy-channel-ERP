@@ -22,7 +22,7 @@
     
     python3 noisy_channel.py -i <input_filename> -o <output_filename>
 
-<li> <input_filename>: The name (and path) of an input .csv file. The input file should have at least four columns: Item, Condition, Literal, Alternative. See 'test_input.csv' for detailed format </li>
+<li> The input file should be a .csv file with at least four columns: Item, Condition, Literal, Alternative. See 'test_input.csv' for detailed format </li>
 
-<li> <output_filename>: The name (and path) of an output .csv file. See 'test_output.csv' for more details. </li>
+<li> The output file should be specified as a .csv file. See 'test_output.csv' for more details. </li>
 
