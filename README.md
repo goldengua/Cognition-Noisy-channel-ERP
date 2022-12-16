@@ -26,3 +26,13 @@
 
 <li> The output file should be specified as a .csv file. See 'test_output.csv' for more details. </li>
 
+<h4> Access to experimental stimuli </h4>
+<p> To access experimental stimuli, please contact the author(s) or check supplementary materials of the listed papers. </p>
+<li> reversal-1 (available as supplementary materials): Chow, W. Y., Smith, C., Lau, E., & Phillips, C. (2016). A “bag-of-arguments” mechanism for initial verb predictions. <i> Language, Cognition and Neuroscience, 31</i>(5), 577-596. </li>
+<li> reversal-2 (check with authors): Ehrenhofer, L., Lau, E., & Phillips, C. (2019). A possible cure for “N400 blindness” to role reversal anomalies in sentence comprehension. <i>This is an unpublished manuscript available at the following link: <a href = "http://www.colinphillips.net/wp-content/uploads/2019/08/ehrenhofer_lau_phillips_20190318">[PDF]</a>.</i>  </li>
+<li> animacy-1 (available as supplementary materials): Kim, A., & Osterhout, L. (2005). The independence of combinatory semantic processing: Evidence from event-related potentials. <i>Journal of memory and language, 52</i>(2), 205-225. </li>
+<li> animacy-2 (available as supplementary materials): Kim, A., & Osterhout, L. (2005). The independence of combinatory semantic processing: Evidence from event-related potentials. <i>Journal of memory and language, 52</i>(2), 205-225.  </li>
+<li> animacy-3 (check with authors): Kuperberg, G. R., Choi, A., Cohn, N., Paczynski, M., & Jackendoff, R. (2010). Electrophysiological correlates of complement coercion. <i> Journal of cognitive neuroscience, 22</i>(12), 2685-2701.</li>
+<li> substitution-1 (available as supplementary materials): Chow, W. Y., Smith, C., Lau, E., & Phillips, C. (2016). A “bag-of-arguments” mechanism for initial verb predictions. Language, Cognition and Neuroscience, 31(5), 577-596. </li>
+<li> substitution-2 (available as supplementary materials): Chow, W. Y., Smith, C., Lau, E., & Phillips, C. (2016). A “bag-of-arguments” mechanism for initial verb predictions. Language, Cognition and Neuroscience, 31(5), 577-596.</li>
+<li> substitution-3 (available as supplementary materials): Chow, W. Y., Smith, C., Lau, E., & Phillips, C. (2016). A “bag-of-arguments” mechanism for initial verb predictions. Language, Cognition and Neuroscience, 31(5), 577-596. </li>
