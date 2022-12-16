@@ -1,6 +1,6 @@
 <h1> README </h1>
 
-<p> This repository includes sample test data and codes of paper <i> Heuristic interpretation as rational inference: A computational model of the N400 and P600 in language processing </i>. </p>
+<p> This repository includes sample test data and codes of paper <b> Heuristic interpretation as rational inference: A computational model of the N400 and P600 in language processing </b>. </p>
 
 <h4> List of Files </h4>
 
