@@ -2,7 +2,7 @@
 
 README
 
-This repository includes sample test data and codes of paper (title: "Heuristic interpretation as rational inference: A computational model of the N400 and P600 in language processing") submitted to Journal of Cognition.
+This repository includes sample test data and codes of paper (title: "Heuristic interpretation as rational inference: A computational model of the N400 and P600 in language processing").
 
 This directory contains four files:
 
